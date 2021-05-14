@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "static:export": "next export"
   },
   "dependencies": {
     "@chakra-ui/react": "^1.6.1",
